@@ -8,3 +8,6 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ <%= stylesheet_link_tag :application, "data-turbo-track": "reload" %>
+

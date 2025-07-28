@@ -7,7 +7,7 @@ ruby "3.3.5"
 gem "bootsnap", require: false
 gem "importmap-rails"
 gem "jbuilder"
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.6"
 gem "puma", ">= 5.0"
 gem "rails", "~> 8.0.2"
 

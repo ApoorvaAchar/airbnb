@@ -9,7 +9,7 @@ gem "importmap-rails"
 gem "jbuilder"
 gem "pg", "~> 1.1"
 gem "puma", ">= 5.0"
-gem "rails", "~> 8.0.2"
+gem "rails", "~> 8.1.0"
 
 gem "redis", "~> 4.0"
 gem "sprockets-rails"
